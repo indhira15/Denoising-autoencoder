@@ -1,1 +1,2 @@
-![](Denoising_autoencoder_ENG.pdf)
+[embed]https://drive.google.com/file/d/1ckzfiMeTaM1qsfl0hD-PX-INjjTKftLl/view?usp=sharing[/embed]
+
