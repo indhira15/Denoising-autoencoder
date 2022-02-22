@@ -3,6 +3,6 @@ Denoised text images (and black and white drawings) using three different types 
 1. MLP Autoencoder
 2. CNN Auntoencoder + post CNN process 
 3. CNN Auntoencoder + 2 post CNN process 
-![](images_readme/Denoising\autoencoder\ENG-11.png)
-![](images_readme/Denoising\autoencoder\ENG-12.png)
+![](images_readme/Denoising_autoencoder_ENG-11.png)
+![](images_readme/Denoising_autoencoder_ENG-12.png)
 
