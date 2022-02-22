@@ -1,1 +1,1 @@
-![](Denoising autoencoder ENG.pdf){width=75%}
+![](Denoising autoencoder ENG.pdf)
