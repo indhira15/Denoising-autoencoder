@@ -1,1 +1,1 @@
-![](Denoising autoencoder ENG.pdf)
+![](Denoising_autoencoder_ENG.pdf)
