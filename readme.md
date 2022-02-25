@@ -16,3 +16,4 @@ Denoised text images (and black and white drawings) using three different types 
 ![](images_readme/Denoising_autoencoderENG_4.jpg)
 ![](images_readme/Denoising_autoencoderENG_5.jpg)
 
+More detail in Denoising_autoencoder_ENG.pdf
